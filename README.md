@@ -1,1 +1,7 @@
-`</>` **Web Developer** `</>` **Full-Stack Developer** `</>` **Turkish Student** `</>` **Editor** 
+`</>` **Web Developer** 
+
+`</>` **Full-Stack Developer** 
+
+`</>` **Student** 
+
+`</>` **Editor** 
